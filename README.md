@@ -1,0 +1,2 @@
+# ISO27k-Toolkit
+Maintaining your information security in accordance with ISO 27001 can help you decrease expenses while maintaining compliance with regulatory mandates. Even in a world where hackers are persistent in their pursuit of personal information, following ISO standards may help you get and keep clients. Information security may be guided by the international standard ISO/IEC 27001, a collection of standards established for that purpose.
